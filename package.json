@@ -1,0 +1,23 @@
+{
+  "name": "moonbet",
+  "version": "2.0.0",
+  "description": "A newly redefined gambling experience!",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+  "api": "cd server && npm start",
+  "client": "cd client && npm start",
+  "build": "call build-local.bat",
+  "deploy": "call scripts\\deploy-local.bat",
+  "test": "echo Error: no test specified && exit /b 1"
+
+  },
+  "keywords": [
+    "gambling",
+    "crypto"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "firebase": "^10.12.2"
+  }
+}
