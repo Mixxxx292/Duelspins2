@@ -1,0 +1,13 @@
+MONGDB PASSSS
+
+dalbekki1
+KQ0JlfQDTX7W7Mui
+
+
+mongodb+srv://dalbekki1:KQ0JlfQDTX7W7Mui@cluster1.dsiefwy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+
+mongodb+srv://dalbekki1:KQ0JlfQDTX7W7Mui@cluster1.dsiefwy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+mongodb+srv://dalbekki1:KQ0JlfQDTX7W7Mui@cluster1.dsiefwy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+mongodb+srv://dalbekki1:KQ0JlfQDTX7W7Mui@cluster1.dsiefwy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1
+
+mongodb+srv://dalbekki1:KQ0JlfQDTX7W7Mui@cluster1.dsiefwy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster1

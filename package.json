@@ -8,7 +8,7 @@
   "api": "cd server && npm start",
   "client": "cd client && npm start",
   "build": "call build-local.bat",
-  "deploy": "call scripts\\deploy-local.bat",
+  "deploy": "call deploy-local.bat",
   "test": "echo Error: no test specified && exit /b 1"
 
   },
