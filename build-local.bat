@@ -1,16 +1,17 @@
-@echo off
-set NODE_OPTIONS=--openssl-legacy-provider
-echo Starting build process...
+#!/bin/sh
 
-rem Navigate to the client directory and build
+export NODE_OPTIONS=--openssl-legacy-provider
+echo "Starting build process..."
+
+# Navigate to the client directory and build
 cd client
-call npm run build
+npm run build
 
-rem Navigate back to the root directory
+# Navigate back to the root directory
 cd ..
 
-rem Navigate to the server directory and build
+# Navigate to the server directory and build
 cd server
-call npm run build
+npm run build
 
-echo Build process completed successfully!
+echo "Build process completed successfully!"
