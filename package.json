@@ -5,11 +5,11 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-  "api": "cd server && npm start",
-  "client": "cd client && npm start",
-  "build": "call build-local.bat",
-  "deploy": "call deploy-local.bat",
-  "test": "echo Error: no test specified && exit /b 1"
+  "api": "",
+  "client": "",
+  "build": "",
+  "deploy": "chmod +x deploy-local.sh",
+  "test": ""
 
   },
   "keywords": [
