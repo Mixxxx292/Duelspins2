@@ -134,16 +134,16 @@ const Footer = () => {
               handleClose={() => setFaqModalVisible(state => !state)}
             />
             <Link onClick={() => setFaqModalVisible(state => !state)}>FAQ</Link>
-            <Link href="support@moonbet.vip" target="blank_">
+            <Link href="support@duelspins.com" target="blank_">
               E-mail
             </Link>
           </Box>
           <Box className={classes.list}>
             <Box>Social</Box>
-            <Link href="https://twitter.com/moonbetvip" target="blank_">
+            <Link href="https://discord.gg/2P7tFuH5kE" target="blank_">
               Twitter
             </Link>
-            <Link href="https://discord.gg/moonbet" target="blank_">
+            <Link href="https://discord.gg/2P7tFuH5kE" target="blank_">
               Discord
             </Link>
           </Box>

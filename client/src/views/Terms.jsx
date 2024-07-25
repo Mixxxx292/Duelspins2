@@ -46,7 +46,7 @@ const Terms = () => {
         <section>
           <p>
             This end user agreement (the "Agreement") should be read by you (the
-            "User" or "you") in its entirety prior to your use of Moonbet.vip’s
+            "User" or "you") in its entirety prior to your use of duelspins.com’s
             service or products. Please note that the Agreement constitutes a
             legally binding agreement between you and Moonbet (referred to herein
             as "Moonbet", "us" or "we"). By signing up on site and using our services, you consent to the terms
@@ -60,7 +60,7 @@ const Terms = () => {
             User a non-exclusive, personal, non-transferable right to use the
             Service on your personal computer or other device that accesses the
             Internet in order to access the games available and described on the
-            Moonbet.vip website
+            duelspins.com website
           </p>
           <p>
             ii. The Service is not for use by individuals under 18 years of age,
@@ -75,7 +75,7 @@ const Terms = () => {
             i. PERSONAL USE. The Service is intended solely for the User’s
             personal use. The User is only allowed to wager for his/her personal
             entertainment and may not create multiple accounts, including for
-            the purpose of collusion and/or abuse of service. Moonbet.vip is in no way
+            the purpose of collusion and/or abuse of service. duelspins.com is in no way
             liable in any way to compensate the lost wager. If we are to found out you 
             were abusing, we reserve the right to terminate your account without 
             prior notice and comprise restricive measures to ensure the future abuse or collusion of our services.
@@ -87,7 +87,7 @@ const Terms = () => {
           <p>
             Moonbet.vip reserve the right to ask any user at any time for any KYC
             documentation, Moonbet.vip reserve the right to restrict the withdraw
-            until identity is sufficiently determined. Moonbet.vip may have the right
+            until identity is sufficiently determined. duelspins.com may have the right
             to withhold your withdraw of wager request till the KYC process has been
             completed in full with the user's legal jurisdiction's laws.
           </p>
@@ -99,7 +99,7 @@ const Terms = () => {
             Moonbet.vip reserves the right to take such action, including
             terminating this Agreement or any other agreement in place with the
             User and/or taking legal action against such User. In the event of a 
-            exploit abused by the user, Moonbet.vip retains the right to use 
+            exploit abused by the user, duelspins.com retains the right to use 
             information collected on the user, including but not limited to
             ("IP address", "Billing Address", "KYC ID information") to pursue 
             legal action agasint said user. 
@@ -125,14 +125,14 @@ const Terms = () => {
         <section>
           <b>6. No Warranties</b>
           <p>
-            i. Moonbet.vip disclaims any and all warranties, expressed or implied,
+            i. duelspins.com disclaims any and all warranties, expressed or implied,
             in connection with the service which is provided to you "as is" and
             we provide you with no warranty or representation whatsoever
             regarding its quality, fitness for purpose, completeness or
             accuracy.
           </p>
           <p>
-            ii. Moonbet.vip makes no warranty that the service will be
+            ii. duelspins.com makes no warranty that the service will be
             uninterrupted, timely or error-free, or that defects will be
             corrected.
           </p>
@@ -144,7 +144,7 @@ const Terms = () => {
             conditions contained in the version of the Agreement in force at
             such time. If any issue may be found in this agreement or you would like
             to provide a legal inquiry on our operations, you can contract us at
-            legal@moonbet.vip, or paradox@moonbet.vip to mediate your inquiry.
+            legal@duelspins.com, or mix@duelspins.com to mediate your inquiry.
           </b>
         </section>
       </Container>

@@ -1,7 +1,11 @@
-#!/bin/sh
+#!/bin/bash
 
 export NODE_OPTIONS=--openssl-legacy-provider
-echo "Starting build process..."
+
+echo "Starting build and deployment process..."
+
+# Set environment variables if needed
+export NODE_ENV=production
 
 # Navigate to the client directory and build
 cd client
@@ -14,4 +18,13 @@ cd ..
 cd server
 npm run build
 
-echo "Build process completed successfully!"
+# Start the server in the background
+npm start &
+
+# Navigate back to the client directory
+cd ../client
+
+# Start the client in development mode
+npm start
+
+echo "Build and deployment process completed successfully!"
