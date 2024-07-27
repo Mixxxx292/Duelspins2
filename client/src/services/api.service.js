@@ -4,7 +4,7 @@ import axios from "axios";
 export const API_URL =
   window.location.hostname === "localhost"
     ? "http://localhost:5000/api"
-    : "https://api.moonbet.vip/api";
+    : "https://api.duelspins.com/api";
 
 // Declare useful endpoints
 export const STEAM_ASSET_CDN_EDGE_URL =

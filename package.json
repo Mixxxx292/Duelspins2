@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "A newly redefined gambling experience!",
   "main": "index.js",
-  "private": true,
+  "private": false,
   "scripts": {
   "api": "cd server && npm start",
   "client": "cd client && npm start",
